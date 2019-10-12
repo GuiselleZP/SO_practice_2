@@ -7,5 +7,6 @@
 
 
 Implementation of a database in C, using a hash table that runs on the disk.
+The server can listen to several clients simultaneously.
 	
 
